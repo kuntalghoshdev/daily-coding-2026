@@ -36,11 +36,11 @@ Productivity Score =
 
 ## ▶️ How to Run
 
-```bash
+bash
 python studypulse.py
 
 
-📌 Example
+```📌 Example
 Subject: DSA in Java
 Study time: 120 minutes
 Break time: 20 minutes
