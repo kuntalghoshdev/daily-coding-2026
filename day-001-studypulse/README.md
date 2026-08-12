@@ -36,11 +36,11 @@ Productivity Score =
 
 ## ▶️ How to Run
 
-<!--bash
-python studypulse.py-->
+```bash
+python studypulse.py
 
 
-<!--📌 Example
+📌 Example
 Subject: DSA in Java
 Study time: 120 minutes
 Break time: 20 minutes
@@ -52,4 +52,4 @@ Focus efficiency: 85.71 %
 Productivity score: 82.29 / 100
 
 🚀 Great study session!
-💡 Tip: Try completing more of your planned tasks.-->
+💡 Tip: Try completing more of your planned tasks.
