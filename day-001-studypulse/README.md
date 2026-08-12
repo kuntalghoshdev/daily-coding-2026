@@ -36,7 +36,7 @@ Productivity Score =
 
 ## ▶️ How to Run
 
-bash
+```bash
 python studypulse.py
 
 
