@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+uptime_report.json
+uptime_report.csv
